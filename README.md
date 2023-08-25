@@ -1,1 +1,3 @@
 # Richardys0n.github.io
+
+UM DOS MEUS PRIMEIROS TRABALHOS COM PROGRAMAÇÃO
